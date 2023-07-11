@@ -1,0 +1,4 @@
+#!/bin/bash
+grep -i "root" /etc/pattern#!/bin/bash
+grep -i "root" /etc/pattern#!/bin/bash
+grep -i "root" /etc/pattern
